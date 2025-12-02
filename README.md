@@ -77,36 +77,6 @@ The model confirmed the findings from the EDA, ranking the features by predictiv
 * **Statistical Analysis:** Statsmodels
 * **Machine Learning:** Scikit-learn (RandomForestRegressor)
 
----
-
-## 📂 Repository Structure
-
-```text
-├── data/
-│   └── insurance.csv          # Raw dataset
-├── images/                    # Visualizations for README
-│   └── dashboard_preview.png
-├── notebook/
-│   └── analysis_script.ipynb  # Complete analysis and modeling
-├── requirements.txt           # Python dependencies
-└── README.md                  # Project documentation
-````
-
-## 🚀 How to Run
-
-1.  Clone the repository:
-    ```bash
-    git clone [https://github.com/your-username/insurance-cost-prediction.git](https://github.com/your-username/insurance-cost-prediction.git)
-    ```
-2.  Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-3.  Open the Jupyter Notebook:
-    ```bash
-    jupyter notebook notebook/analysis_script.ipynb
-    ```
-
 -----
 
 *This project was developed for educational and portfolio purposes to demonstrate end-to-end data analysis and modeling workflows.*
