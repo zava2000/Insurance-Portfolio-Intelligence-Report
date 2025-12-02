@@ -34,8 +34,7 @@ We utilized **Seaborn** and **Plotly (Cufflinks)** to create static and interact
 * **Outlier Detection:** Decided to retain high-cost outliers as they represent valid high-risk business cases (e.g., chronic illnesses).
 * **Multivariate Analysis:** Uncovered the non-linear interaction between smoking status and BMI.
 
-![Analysis Dashboard](Images/dashboard3.png)
-*(Placeholder: Add a screenshot of your Dashboard 3 here)*
+![Analysis Dashboard](Images/Dashboard 3.png)
 
 ### 2. Statistical Analysis (OLS Regression)
 We fit a multivariate linear regression model using `statsmodels` to test statistical significance.
