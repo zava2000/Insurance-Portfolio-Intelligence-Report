@@ -7,9 +7,6 @@
 ![Library](https://img.shields.io/badge/Library-Pandas-150458)
 ![Status](https://img.shields.io/badge/Status-Completed-green)
 
-**Author:** Agustin A. Zavagnini  
-**Date:** November 2025
-
 ---
 
 ## 📋 Executive Summary
@@ -37,7 +34,7 @@ We utilized **Seaborn** and **Plotly (Cufflinks)** to create static and interact
 * **Outlier Detection:** Decided to retain high-cost outliers as they represent valid high-risk business cases (e.g., chronic illnesses).
 * **Multivariate Analysis:** Uncovered the non-linear interaction between smoking status and BMI.
 
-![Analysis Dashboard](images/dashboard_preview.png)
+![Analysis Dashboard](Images/dashboard3.png)
 *(Placeholder: Add a screenshot of your Dashboard 3 here)*
 
 ### 2. Statistical Analysis (OLS Regression)
