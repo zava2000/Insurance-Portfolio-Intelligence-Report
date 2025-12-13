@@ -1,4 +1,4 @@
-# 🩺 Insurance-Portfolio-Intelligence-Report
+# 🩺 Medical cost forecaster
 
 ### A Data-Driven Approach to Medical Cost Risk Analysis
 
